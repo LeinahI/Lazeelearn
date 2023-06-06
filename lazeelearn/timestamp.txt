@@ -1,0 +1,10 @@
+https://www.dbestech.com/tutorials/flutter-firebase-complete-app-study-app
+https://console.firebase.google.com/u/0/project/lazeelearn/overview
+https://jsontodart.com/
+https://stackoverflow.com/questions/70486658/no-firebase-app-has-been-created-call-firebase-initializeapp
+DONEEE!
+mga dinelete kong plugin sa pubspec
+    cached_network_image: ^3.2.3
+    cached_network_image_builder: ^0.2.0
+
+({Key? key}) : super(key: key);

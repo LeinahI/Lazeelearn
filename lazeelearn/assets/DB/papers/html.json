@@ -1,0 +1,239 @@
+{
+    "id": "ppr005",
+    "title": "HTML",
+    "image_url": "",
+    "Description": "HyperText Markup Language Multiple Choice Questions (MCQ) to practice basic HTML quiz answers",
+    "time_seconds": 600,
+    "questions": [
+        {
+            "id": "ppr005q001",
+            "question": "What is the purpose of the <track> tag, and when should it be used?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": " The <track> tag is used for specifying subtitles. It is typically applied as a child of the <audio> and <video> tags."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "The <track> tag is used for specifying subtitles. It is typically applied as a child of the <video> tag."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "The <track> tag is used for specifying subtitles, captions, and other types of time-based text. It is typically applied as a child of the <video> tag."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "The <track> tag is used for specifying subtitles, captions, and other types of time-based text. It is typically applied as a child of the <audio> and <video> tag."
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr005q002",
+            "question": "What are the best examples of void elements?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "<link><meta><title>"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "<br><base><source>"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "<input><br><p>"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "<area><embed><strong>"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr005q003",
+            "question": "In HTML5, which tag or tags embed a webpage inside of a webpage?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "<iframe>, <frame>, and <frameset>"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "<frame>"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "<iframe>"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "<frame> and <frameset>"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr005q004",
+            "question": "Where do <header> and <footer> tags typically occur?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "as children of <body>, <article>, <aside>, and <section> tags"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": " as children of <body>, <article>, and <section> tags"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "as children of <body>, <article>, <aside>, <nav>, and <section> tags"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "<body>, <article>, <table>, and <section>"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr005q005",
+            "question": "What is the best way to apply bold styling to text?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "<strong>"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Use CSS."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "<bold>"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "<b>"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr005q006",
+            "question": "When is the <link> tag used?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "when linking style sheets, JavaScript, and icons for mobile apps"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "when linking style sheets, favicons, and preloading assets"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "when linking one webpage to another"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "when linking style sheets, external URLs, and favicons"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr005q007",
+            "question": "What should fill the two blanks in the HTML code below?\n<address ______ _____>\n<span itemprop='streetAddress'>6410 Via Real</span><br />\n <span itemprop='addressLocality'>Carpinteria</span>,\n<span itemprop='addressRegion'>CA</span>\n<span itemprop='addressCode'>93013</span>\n</address>",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "itemscope itemtype='http://schema.org/PostalAddress'"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "itemsref='http://schema.org/PostalAddress' itemid='address'"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "itemscope itemref='http://schema.org/PostalAddress'"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "itemid='address' itemtype='http://schema.org/PostalAddress'"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr005q008",
+            "question": "When should you use the <aside> element?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "when the content can be removed without detracting from the page's message"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "for anything you want to move to the side, like a pull quote box, a sidebar, or an image with text wrapping around it"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "for anything in parentheses"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "for anything in a sidebar"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr005q009",
+            "question": "With which tags is the <source> element associated?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "<svg>, <picture>, <audio>, and <video>"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "<picture>, <audio>, and <video>"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "It is interchangeable with the src attribute, so any element which uses src may use <source>"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "<audio> and <video>"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr005q010",
+            "question": "What is NOT a valid attribute for the <textarea> element?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "readonly"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "max"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "form"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "spellcheck"
+                }
+            ],
+            "correct_answer": "B"
+        }
+    ]
+}

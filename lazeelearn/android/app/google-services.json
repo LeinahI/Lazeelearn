@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702372677977",
+    "project_id": "lazeelearn",
+    "storage_bucket": "lazeelearn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702372677977:android:9c01cdf98d9e6900eae448",
+        "android_client_info": {
+          "package_name": "com.example.lazeelearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702372677977-rhofj6qtu5f3cj9g19shnspg1itngnaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQByX1gGnoZ5HaKBBmHZScFRUmPay5_ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702372677977-rhofj6qtu5f3cj9g19shnspg1itngnaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
